@@ -1,0 +1,14 @@
+5. Write a program that asks the user to input a positive integer and tells the user whether or not the number is a prime. 
+
+
+User is asked to insert a positive number. 
+If the number that the user entered is greater than 1 then the program checks all the numbers in range between 2 and entered number. 
+If after dividing entered number with each of the numbers in range up to that number there are no divisors left than the program prints "This is not 
+a prime number". In other cases the program prints "n  is a prime number".
+
+If the entered number is equal or less than 1 the program prints "n is a prime number". 
+
+Reference
+
+Python.org
+https://docs.python.org/3/tutorial/controlflow.html
