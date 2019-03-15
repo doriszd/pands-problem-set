@@ -8,6 +8,6 @@ if x == a:
     print ("Yes, today begins with 'T'")
 
 else:
-    print ("No, today does not begin with 'T'" )
+    print ("No, today does not begin with 'T'")
 
 

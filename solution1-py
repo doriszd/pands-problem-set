@@ -1,5 +1,7 @@
 
+HEAD
 x= int(input("Please enter a positive integer:"))
+63e54efdf06ab456e7b121d133ac0885f537e3a0
 
 a = range(1 + x)
 
@@ -9,4 +11,6 @@ print (b)
 if x < 0:
     print ("Please enter integer greater than 0")
     
+HEAD
 
+63e54efdf06ab456e7b121d133ac0885f537e3a0
