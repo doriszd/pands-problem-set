@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 x= int(input("Please enter a positive integer:"))
 
 a = range(1 + x)
@@ -9,15 +9,4 @@ print (b)
 if x < 0:
     print ("Please enter integer greater than 0")
     
-=======
-x= int(input("Please enter a positive integer:"))
 
-a = range(1 + x)
-
-b = sum(a)
-print (b)
-
-if x < 0:
-    print ("Please enter integer greater than 0")
-    
->>>>>>> 4db02a0c55ea5e52d44e86432aa1afc7c2df9b62
