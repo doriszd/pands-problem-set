@@ -16,7 +16,7 @@ if n > 1:
         print (n, "is a prime number.")
 # If the entered number is equal or less than 1 then it is not a prime number   
 else:
- # Other options
+ 
     print(n, 'is a prime number')
 
 
