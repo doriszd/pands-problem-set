@@ -1,0 +1,16 @@
+7. Write a program that takes a positive floating point number as input and outputs an approximation of the square root. 
+
+User is asked to enter a positive number. 
+
+The initial estimate is 6. 
+Algorithm of Newton's method is used in " while " loop. 
+While the estimate * estimate - roofof is greater than 0.1 Newton's method of calculating square roots is used:
+
+estimate -=((estimate * estimate )-rootof) / (2 * estimate)
+
+Program prints the square root of entered number.
+
+Reference:
+
+Newton's square root
+https://web.microsoftstream.com/video/dca7ddaa-9512-4810-a758-237921e6440e
