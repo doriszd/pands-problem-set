@@ -1,0 +1,21 @@
+4. Write a program that asks the user to input any postitive integer and outputs the successive values of the following calculation. At each step calculate the next value by 
+taking the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one. Have the program end if the current value is one. 
+
+$ python collatz.py
+
+Defining the function as collatz. The function takes a number. 
+In if statement, if the entered number is even, it is divided by 2 and numbers are printed on a horizontal line. Than, the calculation terminates and 
+the value is returned. 
+if the number is odd, it is divided by 2 and that number is multiplied by 3 and 1 is added to that number. The number is printed. 
+User is asked to enter a number. While the value of that number doesn't equal 1, a new value is assigned and the function is run again. 
+
+References:
+Python.org
+https://www.tutorialspoint.com/python/python_functions.htm
+
+Stackoverflow
+https://stackoverflow.com/questions/13366830/collatz-conjecture-sequence
+
+Stackoverflow
+https://stackoverflow.com/questions/7129285/what-is-the-purpose-of-the-return-statement
+

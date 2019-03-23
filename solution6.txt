@@ -1,0 +1,13 @@
+6. write a program that takes a user input string and outputs every second word. 
+
+User is asked to input a sentence. 
+Sentence is split into words in a list. 
+Every second word in the sentence is joined together without commas and parenthesis and printed out. 
+
+Reference:
+
+Python central
+https://www.pythoncentral.io/cutting-and-slicing-strings-in-python/
+
+Tutorials point
+https://www.tutorialspoint.com/python/string_join.htm
