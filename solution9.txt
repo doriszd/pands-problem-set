@@ -1,0 +1,21 @@
+9. Write a program that reads in a text file and outputs every second line. The program should take the filename from an 
+argument on the command line. 
+
+Mobi_dick2 text file is opened in read mode. 
+File is counted from the first line in the file. 
+For every line in the file another line is added. 
+If the number of the line is divided by 2 and there is no remainder, the line is output on the screen. 
+Otherwise the lines are ignored. 
+
+References:
+
+Gutenberg.org
+https://www.gutenberg.org/files/2701/2701-h/2701-h.htm
+
+Python central
+https://www.pythoncentral.io/reading-and-writing-to-files-in-python/
+
+Stackbuse
+https://stackabuse.com/read-a-file-line-by-line-in-python/
+
+
