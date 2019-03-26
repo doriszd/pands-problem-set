@@ -2,7 +2,8 @@
 
 
 
-In order to write this program I had to import numpy and matplotlib libraries. To get the range from 0 to 4 I had to include numbers from 0 to 5. 0 displays
+In order to write this program I had to import numpy and matplotlib libraries.
+To get the range from 0 to 4 I had to include numbers from 0 to 5. 0 displays
 beginning value of the range while 5 displays end value. There are 3 lines, x is
 red, x2 is blue and 2x is green. There is a legend in upper left corner to make
 plot more apprehensible to users. 
