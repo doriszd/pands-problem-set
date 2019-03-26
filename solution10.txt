@@ -1,0 +1,16 @@
+10. Write a program that displays a plot of the functions x, x2, 2x in the range [o, 4] 
+
+
+
+In order to write this program I had to import numpy and matplotlib libraries. To get the range from 0 to 4 I had to include numbers from 0 to 5. 0 displays beginning value of the range while 5 displays end value. There are 3 lines, x is red, x2 is blue and 2x is green. There is a legend in upper left corner to make plot more apprehensible to users. 
+
+References:
+
+docs.scipy.org
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.arange.html
+
+Matplotlib
+https://matplotlib.org/
+
+realpython.com
+https://realpython.com/python-matplotlib-guide/

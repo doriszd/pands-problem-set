@@ -1,0 +1,21 @@
+1. Write a program that asks the user to input any positive integer and outputs the sum of all numbers between one and that number.
+
+
+This program sums all numbers between 1 and the chosen number.
+"x" signifies the chosen number
+"a" refers to the range of numbers from 1 to the chosen number
+"b" is sum of all numbers between 1 and chosen number
+If a user decides to enter negative number, a message to enter integer greater than 0 will be displayed to encourage them to try again.
+
+
+References:
+
+Programming historian
+https://programminghistorian.org/en/lessons/getting-started-with-github-desktop
+
+Python central
+https://www.pythoncentral.io/pythons-range-function-explained/
+
+Python.org
+https://docs.python.org/3/tutorial/index.html
+

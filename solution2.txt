@@ -1,0 +1,12 @@
+2. Write a program that outputs whether or not today is a day that begins with the letter T. 
+
+"x" represents string where user is asked to enter today's day.
+"l" represents all days in the week.
+"a" signifies Tuesday and Thursday as those days are the only ones that start with T.
+In the next line there is an if statement. If the chosen day equals Tuesday or Thursday, "Yes, today begins with T" is printed. In other cases "No, today does not begin with T" is shown on the screen.
+
+References
+
+Lecture: Week 4: Controlling the flow, Conditionals
+https://web.microsoftstream.com/video/82894055-5147-487d-ab35-6bf5c51cd889
+

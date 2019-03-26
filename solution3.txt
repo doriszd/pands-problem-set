@@ -1,5 +1,17 @@
- Write a program that prints all numbers between 1,000 and 10,000 that are divisible by 6 but not 12. 
+3. Write a program that prints all numbers between 1,000 and 10,000 that are divisible by 6 but not 12. 
+
 
 The program prints all numbers between 1000 and 10,000 that are divisible by 6 but not 12. 
-If a number in the range is divisible by 6 with remainder 0 and if the same number is not
-divisible by 12 than the program prints that number. The program goes through all numbers in the range mentioned above. 
+If a number in the range is divisible by 6 with remainder 0 and if the same number is not divisible by 12 than the program prints that number. The program goes through all numbers in the range mentioned above. In order to execute this program for loop is used. 
+
+
+References:
+
+wiki.python.org
+https://wiki.python.org/moin/ForLoop
+
+pythoncentral.io
+https://www.pythoncentral.io/pythons-range-function-explained/
+
+stackoverflow
+https://stackoverflow.com/questions/1738109/how-does-the-pythons-range-function-work
