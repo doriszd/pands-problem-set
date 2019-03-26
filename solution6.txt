@@ -2,7 +2,8 @@
 
 User is asked to input a sentence. 
 Sentence is split into words in a list so they can be treated separately. 
-Every second word in the sentence is joined together without commas and parenthesis and printed out. 
+Every second word in the sentence is joined together without commas and
+parenthesis and printed out. 
 
 Reference:
 

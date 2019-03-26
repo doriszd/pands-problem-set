@@ -1,10 +1,11 @@
-9. Write a program that reads in a text file and outputs every second line. The program should take the filename from an 
-argument on the command line. 
+9. Write a program that reads in a text file and outputs every second line. The
+program should take the filename from an argument on the command line. 
 
 Mobi_dick2 text file is opened in read mode. 
 File is counted from the first line in the file. 
 For every line in the file another line is added. 
-If the number of the line is divided by 2 and there is no remainder, the line is output on the screen. 
+If the number of the line is divided by 2 and there is no remainder, the line is
+output on the screen. 
 Otherwise the lines are ignored. 
 
 References:

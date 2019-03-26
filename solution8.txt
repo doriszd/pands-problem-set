@@ -1,15 +1,21 @@
-8. Write a program that outputs today’s date in format “Monday, January 10th 2019 at 1:15pm. 
+8. Write a program that outputs today’s date in format “Monday, January 10th
+2019 at 1:15pm. 
 
-There are several datetime objects imported from Python’s standard library which show current date and time. 
+There are several datetime objects imported from Python’s standard library which
+show current date and time. 
 Now – shows days of the week
 month – shows current month
 day – dates in a month
-In order to print English ordinal numbers (1st, 2nd, 3rd..) for loop is being used. If statements are used to execute ordinal numbers that take ending “st”, “nd”, “rd”. 
+In order to print English ordinal numbers (1st, 2nd, 3rd..) for loop is being
+used. If statements are used to execute ordinal numbers that take ending “st”, “nd”, “rd”. 
 In other cases ending “th” is printed. 
 year – shows the year we are in.
-Time – current time printed in format hours, minutes (0 before the number is excluded)
-Current date and time is printed in format: day (day of the week), month, day(date), year, time. 
-End=” “ is used when printing strings in order to have all the objects printed in a line. 
+Time – current time printed in format hours, minutes (0 before the number is
+excluded)
+Current date and time is printed in format: day (day of the week), month,
+day(date), year, time. 
+End=” “ is used when printing strings in order to have all the objects printed
+in a line. 
 
 
 
